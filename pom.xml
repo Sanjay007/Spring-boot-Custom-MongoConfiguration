@@ -31,7 +31,7 @@
 		<!-- apache commons libs -->
 		<apache.commons.lang.version>3.6</apache.commons.lang.version>
 		<apache.commons.math.version>3.6.1</apache.commons.math.version>
-		<apache.commons.io.version>2.5</apache.commons.io.version>
+		<apache.commons.io.version>2.7</apache.commons.io.version>
 		<apache.commons.validator.version>1.6</apache.commons.validator.version>
 		<apache.commons.collections.version>4.1</apache.commons.collections.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
